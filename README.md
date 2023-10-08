@@ -1,2 +1,1 @@
 # hexlet-jdbc
-# hexlet-jdbc
